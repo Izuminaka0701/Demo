@@ -1,0 +1,47 @@
+{
+  "card_info": {
+    "card_number": "4111111111111111",
+    "expiry_month": "12",
+    "expiry_year": "2026",
+    "cvv": "123",
+    "cardholder_name": "NGUYEN VAN A"
+  },
+  "order_info": {
+    "order_id": "ORD-20240901-001",
+    "amount": 1500000,
+    "currency": "VND"
+  },
+  "test_cards": [
+    {
+      "name": "Visa",
+      "card_number": "4111111111111111",
+      "expiry_month": "12",
+      "expiry_year": "2026",
+      "cvv": "123",
+      "cardholder_name": "NGUYEN VAN A"
+    },
+    {
+      "name": "Mastercard",
+      "card_number": "5555555555554444",
+      "expiry_month": "06",
+      "expiry_year": "2025",
+      "cvv": "456",
+      "cardholder_name": "TRAN THI B"
+    },
+    {
+      "name": "American Express",
+      "card_number": "378282246310005",
+      "expiry_month": "03",
+      "expiry_year": "2027",
+      "cvv": "7890",
+      "cardholder_name": "LE VAN C"
+    }
+  ],
+  "sample_card": {
+    "card_number": "4111111111111111",
+    "expiry_month": "12",
+    "expiry_year": "2026",
+    "cvv": "123",
+    "cardholder_name": "NGUYEN VAN A"
+  }
+}

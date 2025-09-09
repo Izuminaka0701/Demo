@@ -1,0 +1,10 @@
+{
+  "signer_name": "CEO Nguyen Van A",
+  "organization": "STARTUP ABC",
+  "file_name": "fintech_outsourcing_contract.txt",
+  "file_size": 1073,
+  "signature_type": "RSA-PSS",
+  "timestamp": "2025-09-01T05:26:21.418168",
+  "file_hash": "90263741643a8bda70ca88bd91dcc23cfda2b7ce4b18f4acd06b0ddafdb1e17a",
+  "signature": "fWjfkSXVtW99N32S6rkkCFghfTQJnwMcQWL4Pw6u7gCNeETYDFVeH3zcN0OoQjLzuYdDpJiNN4y9Cnz0P+dSgWPRC/u6KFlL9rgj0bvR2/JhwCvl6X1y9FTMgv4H/RRwzo7qVzfzWj3O+kL5wQP4/7oEankDdbulql2rzA0U7u1dWC1hBn+3LDQUmy1R7rkxzudvGjcNTlUYTjbkP+BqrM3jYLaWZNJcx2uNxjlNvO/JU3+wXyvtGus9lXgiwLVZDLhGq4cXgToN7p9wMWv3Fy2WTfHawmv3NVClGpjTLmn47H8nxfiZmKxkQegpzzy9iG+fFgK/4X0a34EaQ44oyA=="
+}

@@ -1,0 +1,36 @@
+
+HỢP ĐỒNG OUTSOURCING PHÁT TRIỂN ỨNG DỤNG
+
+BÊN A (Khách hàng): STARTUP FINTECH ABC
+Địa chỉ: 123 Nguyễn Huệ, Q1, TP.HCM
+Người đại diện: CEO Nguyễn Văn A
+
+BÊN B (Nhà thầu): CÔNG TY PHẦN MỀM XYZ  
+Địa chỉ: 456 Lê Lợi, Q1, TP.HCM
+Người đại diện: CTO Trần Thị B
+
+DỰ ÁN: Ứng dụng mobile banking
+THỜI GIAN: 6 tháng (01/10/2024 - 31/03/2025)
+GIÁ TRỊ HỢP ĐỒNG: 2,000,000,000 VNĐ
+
+PHẠM VI CÔNG VIỆC:
+1. Phát triển app iOS/Android
+2. Backend API và database
+3. Tích hợp payment gateway
+4. Bảo mật và testing
+5. Deploy và maintenance
+
+MILESTONE VÀ THANH TOÁN:
+- Milestone 1 (30%): UI/UX design - 600M VNĐ
+- Milestone 2 (40%): Core features - 800M VNĐ  
+- Milestone 3 (30%): Testing & Deploy - 600M VNĐ
+
+BẢO HÀNH: 12 tháng
+BẢO MẬT: NDA trong 3 năm
+SỞ HỮU TRÍ TUỆ: Thuộc về Bên A
+
+ĐIỀU KHOẢN PHẠT:
+- Chậm tiến độ: 1%/ngày trên milestone
+- Lỗi nghiêm trọng: 5% giá trị dự án
+
+Ngày ký: 01/09/2024

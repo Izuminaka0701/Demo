@@ -1,0 +1,10 @@
+{
+  "signer_name": "Project Manager",
+  "organization": "COMPANY XYZ",
+  "file_name": "fintech_outsourcing_contract.txt",
+  "file_size": 1073,
+  "signature_type": "ECDSA",
+  "timestamp": "2025-09-01T05:26:21.926051",
+  "file_hash": "90263741643a8bda70ca88bd91dcc23cfda2b7ce4b18f4acd06b0ddafdb1e17a",
+  "signature": "vU1OLex4v1rUViv52triQctkfwjvgi7GwYybd/UfWdI/35nVf4Tywumq6yglw1Iujc0nde4BGTGjl0FjqwrCO6UslBOCvJ7ZItMwWra2P9/n1lJTWb7nBx/hl0lemIKw"
+}

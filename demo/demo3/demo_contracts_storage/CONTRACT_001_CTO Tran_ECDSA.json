@@ -1,0 +1,10 @@
+{
+  "signer_name": "CTO Tran",
+  "organization": "COMPANY B",
+  "file_name": "mou_company_a_b.txt",
+  "file_size": 497,
+  "signature_type": "ECDSA",
+  "timestamp": "2025-09-01T05:25:48.280113",
+  "file_hash": "e30302f46ab36aad3c406accbeae19f50877b7a5126e3f16d0772d39519e3cbf",
+  "signature": "UHUutbqO+rwlVyIdCh3MndB6QZbM/qrd8yYMFyzwhFIsR7dNA5l8N1GSQ2eNfBnEjyyZTq6988gzEFxrLH/rZQ=="
+}

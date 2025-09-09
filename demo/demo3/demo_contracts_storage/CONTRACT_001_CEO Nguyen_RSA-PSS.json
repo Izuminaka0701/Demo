@@ -1,0 +1,10 @@
+{
+  "signer_name": "CEO Nguyen",
+  "organization": "COMPANY A",
+  "file_name": "mou_company_a_b.txt",
+  "file_size": 497,
+  "signature_type": "RSA-PSS",
+  "timestamp": "2025-09-01T05:25:48.267759",
+  "file_hash": "e30302f46ab36aad3c406accbeae19f50877b7a5126e3f16d0772d39519e3cbf",
+  "signature": "Ag0uZ2XYsrTlR5bnr63hjKe+mLpDevu1YeVfCjiecbqij/b+xnBwwnHOZ/xSw+Nn8Z/zRQkfnLe7eg6NDecz6wjPNEVzqE8xk27llUQJfzmqMNdMyQrZEE4Yi9lZRVwre2U9GYsBW7r9bSJxtjSuVXsC8SJyC7txMn3C1pFxfOkZvB9NUBFcRkRSPLalJE6xzO+a+Sb2GOsQhIEJEvO9HoQr5XgCzMQ+Lo8kvOOH64BY/RXSZblQbsEQyDcXZT54zUq6jK1ATyRSxw//I6lfuMAYxfAeY/Hv2pCuVFGmAVll2Ct1WiWweEdER0PQyHmq7bJM2KHN9dXEJ83xp7s/7Q=="
+}

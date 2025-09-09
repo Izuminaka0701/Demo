@@ -1,0 +1,163 @@
+{
+  "order_id": "ORD-2024-002",
+  "customer": {
+    "customer_id": "CUST-567890",
+    "name": "Trần Thị B",
+    "full_name": "Trần Thị Bình An",
+    "phone": "0912345678",
+    "email": "tranthib@email.com",
+    "date_of_birth": "1990-05-15",
+    "gender": "female",
+    "address": {
+      "street": "456 Đường Lê Lợi",
+      "ward": "Phường 8",
+      "district": "Quận 3",
+      "city": "Thành phố Hồ Chí Minh",
+      "postal_code": "700000",
+      "country": "Vietnam",
+      "full_address": "456 Đường Lê Lợi, Phường 8, Quận 3, TP.HCM"
+    },
+    "shipping_address": {
+      "street": "456 Đường Lê Lợi",
+      "ward": "Phường 8", 
+      "district": "Quận 3",
+      "city": "Thành phố Hồ Chí Minh",
+      "postal_code": "700000",
+      "recipient_name": "Trần Thị Bình An",
+      "recipient_phone": "0912345678",
+      "delivery_notes": "Giao hàng buổi sáng, gọi trước 30 phút"
+    }
+  },
+  "items": [
+    {
+      "product_id": "IPHONE-15-PRO-256",
+      "product": "iPhone 15 Pro 256GB Natural Titanium",
+      "category": "Smartphone",
+      "brand": "Apple",
+      "sku": "A3101-256-NT",
+      "price": 32000000,
+      "qty": 1,
+      "discount": 0,
+      "subtotal": 32000000,
+      "warranty": "12 months",
+      "specifications": {
+        "color": "Natural Titanium",
+        "storage": "256GB",
+        "model": "A3101"
+      }
+    },
+    {
+      "product_id": "AIRPODS-PRO-2-GEN",
+      "product": "AirPods Pro 2nd Generation with MagSafe",
+      "category": "Audio",
+      "brand": "Apple", 
+      "sku": "MTJV3-VN",
+      "price": 6000000,
+      "qty": 1,
+      "discount": 200000,
+      "subtotal": 5800000,
+      "warranty": "12 months",
+      "specifications": {
+        "color": "White",
+        "features": ["Active Noise Cancellation", "Spatial Audio", "MagSafe Charging"]
+      }
+    }
+  ],
+  "order_summary": {
+    "items_total": 37800000,
+    "discount_total": 200000,
+    "shipping_fee": 100000,
+    "tax_rate": 0.1,
+    "tax_amount": 3780000,
+    "insurance_fee": 50000,
+    "handling_fee": 30000,
+    "total": 41760000,
+    "currency": "VND",
+    "exchange_rate": 1
+  },
+  "payment": {
+    "method": "digital_wallet",
+    "provider": "Momo",
+    "transaction_id": "MOMO-TXN-20241223-001234",
+    "payment_status": "completed",
+    "paid_amount": 41760000,
+    "payment_date": "2024-12-23T14:30:00+07:00",
+    "card_info": {
+      "type": "debit_card",
+      "bank": "Vietcombank",
+      "card_last4": "5678",
+      "card_holder": "TRAN THI BINH AN",
+      "expiry_month": "12",
+      "expiry_year": "2026"
+    },
+    "billing_address": {
+      "street": "456 Đường Lê Lợi",
+      "ward": "Phường 8",
+      "district": "Quận 3", 
+      "city": "Thành phố Hồ Chí Minh",
+      "postal_code": "700000"
+    }
+  },
+  "shipping": {
+    "method": "express_delivery",
+    "carrier": "Giao Hàng Nhanh (GHN)",
+    "service_type": "Express",
+    "tracking_number": "GHN1234567890123",
+    "estimated_delivery": "2024-12-25",
+    "delivery_time_slot": "09:00-12:00",
+    "shipping_cost": 100000,
+    "insurance_value": 41760000,
+    "package_weight": 1.2,
+    "package_dimensions": {
+      "length": 25,
+      "width": 20, 
+      "height": 15
+    }
+  },
+  "order_timeline": {
+    "created_at": "2024-12-23T14:25:00+07:00",
+    "confirmed_at": "2024-12-23T14:30:00+07:00",
+    "paid_at": "2024-12-23T14:30:00+07:00",
+    "processing_at": "2024-12-23T15:00:00+07:00",
+    "shipped_at": null,
+    "delivered_at": null
+  },
+  "order_status": "processing",
+  "fulfillment_center": "HCM-WAREHOUSE-01",
+  "sales_channel": "website",
+  "promotion_codes": ["NEWUSER2024"],
+  "loyalty_points": {
+    "earned": 417,
+    "redeemed": 0,
+    "balance_after": 417
+  },
+  "customer_notes": "Hàng dễ vỡ, đóng gói cẩn thận",
+  "internal_notes": "Khách hàng VIP - ưu tiên xử lý",
+  "risk_assessment": {
+    "fraud_score": 0.1,
+    "risk_level": "low",
+    "verified_customer": true,
+    "payment_verified": true
+  },
+  "marketing_consent": {
+    "email_marketing": true,
+    "sms_marketing": false,
+    "push_notifications": true
+  },
+  "compliance": {
+    "data_processing_consent": true,
+    "terms_accepted": true,
+    "privacy_policy_version": "2024.1",
+    "gdpr_compliant": true
+  },
+  "metadata": {
+    "source_ip": "115.79.25.100",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X)",
+    "session_id": "sess_abc123def456",
+    "affiliate_code": null,
+    "referrer": "https://google.com",
+    "utm_source": "google",
+    "utm_medium": "cpc", 
+    "utm_campaign": "iphone15_promo"
+  }
+}
